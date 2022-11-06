@@ -1,4 +1,4 @@
-# Hi, I'm Will, and [IT professional](https://www.linkedin.com/in/williamdgreenlaw/).
+# Hi, I'm Will, an [IT professional](https://www.linkedin.com/in/williamdgreenlaw/).
 
 <!--
 **WilliamDGreenlaw/WilliamDGreenlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
