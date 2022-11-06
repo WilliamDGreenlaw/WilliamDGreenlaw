@@ -1,5 +1,17 @@
 # Hi, I'm Will, an [IT professional](https://www.linkedin.com/in/williamdgreenlaw/).
 
+## IT Projects
+
+## Other Activities 
+* [Offensive Security Proving Grounds](offensive-security.com/labs)
+  * Practiced penetration testing skills on real-world vectors in private lab environments
+* [Hack the Box](https://www.hackthebox.com/)
+  * Completed hands-on penetration testing exercises and labs
+* [TryHackMe](https://tryhackme.com/)
+  * Completed hands-on cybersecurity exercises and labs
+* [Caltech Cyber Bootcamp](bootcamp.ctme.caltech.edu/cyber)
+  * Completed a practical program focused on developing offensive and defensive cybersecurity skills
+
 <!--
 **WilliamDGreenlaw/WilliamDGreenlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
