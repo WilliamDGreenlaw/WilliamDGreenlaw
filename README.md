@@ -1,9 +1,9 @@
 # Hi, I'm Will, an [IT professional](https://www.linkedin.com/in/williamdgreenlaw/).
 
 ## IT Labs
-* Active Directory Lab
+* [Active Directory Lab](https://github.com/WilliamDGreenlaw/active-directory-lab)
   * Implemented on-premises Active Directory within Azure virtual machines (on-premises Active Directory deployed in the cloud)
-* Azure Compute and Networking Lab
+* [Azure Compute and Networking Lab](https://github.com/WilliamDGreenlaw/azure-compute-and-networking-lab)
   * Created virtual machines in Azure and analyzed their network traffic with WireShark 
 
 ## Cybersecurity Activities 
