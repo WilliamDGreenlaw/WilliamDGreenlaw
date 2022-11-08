@@ -16,4 +16,4 @@
 * [Make-and-Break](https://github.com/WilliamDGreenlaw/Make-and-Break)
   * Created a vulnerable virtual machine and demonstrated how it could be exploited 
 * [Caltech Cyber Bootcamp](https://bootcamp.ctme.caltech.edu/programs/cybersecurity)
-  * Completed a practical program focused on developing offensive and defensive cybersecurity skills
+  * Completed a practical program focused on developing cybersecurity skills and experience 
