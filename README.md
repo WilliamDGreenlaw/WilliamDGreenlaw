@@ -1,7 +1,10 @@
 # Hi, I'm Will, an [IT professional](https://www.linkedin.com/in/williamdgreenlaw/).
 
 ## IT Projects
-* In progress...
+* Azure Compute and Networking Lab
+  * Created virtual machines in Azure and analyzed their network traffic with WireShark 
+* Active Directory Lab
+  * Implemented on-premises Active Directory within Azure virtual machines (on-premises Active Directory deployed in the cloud)
 
 ## Cybersecurity Activities 
 * [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)
