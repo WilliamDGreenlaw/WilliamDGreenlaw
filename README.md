@@ -1,6 +1,6 @@
 # Hi, I'm Will, an [IT professional](https://www.linkedin.com/in/williamdgreenlaw/).
 
-## IT Projects
+## IT Labs
 * Azure Compute and Networking Lab
   * Created virtual machines in Azure and analyzed their network traffic with WireShark 
 * Active Directory Lab
