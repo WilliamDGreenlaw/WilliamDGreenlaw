@@ -1,4 +1,4 @@
-# Hi, I'm Will, an [IT professional](https://www.linkedin.com/in/williamdgreenlaw/) with a passion for cybersecurity.
+# Hi, I'm Will, an [IT professional](https://www.linkedin.com/in/williamdgreenlaw/) who specializes in cybersecurity.
 
 ## Cybersecurity Labs/Projects
 * [Make and Break](https://github.com/WilliamDGreenlaw/Make-and-Break)
