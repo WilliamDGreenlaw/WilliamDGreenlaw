@@ -13,7 +13,7 @@
   * Completed hands-on penetration testing exercises and labs
 * [TryHackMe](https://tryhackme.com/)
   * Completed hands-on cybersecurity exercises and labs
-* [Make-and-Break](https://github.com/WilliamDGreenlaw/Make-and-Break)
+* [Make and Break](https://github.com/WilliamDGreenlaw/Make-and-Break)
   * Created a vulnerable virtual machine and demonstrated how it could be exploited 
 * [Caltech Cyber Bootcamp](https://bootcamp.ctme.caltech.edu/programs/cybersecurity)
   * Completed a practical program focused on developing cybersecurity skills and experience 
