@@ -1,4 +1,10 @@
-# Hi, I'm [Will](https://www.linkedin.com/in/williamdgreenlaw/), a cybersecurity professional. 
+# Hi, I'm [Will](https://www.linkedin.com/in/williamdgreenlaw/), an IT professional with an interest in cybersecurity. 
+
+## IT Labs/Projects
+* [Active Directory Lab](https://github.com/WilliamDGreenlaw/active-directory-lab)
+  * Implemented on-premises Active Directory within Azure virtual machines (on-premises Active Directory deployed in the cloud)
+* [Azure Compute and Networking Lab](https://github.com/WilliamDGreenlaw/azure-compute-and-networking-lab)
+  * Created virtual machines in Azure and analyzed their network traffic with WireShark 
 
 ## Cybersecurity Labs/Projects
 * [Make and Break](https://github.com/WilliamDGreenlaw/Make-and-Break)
@@ -14,9 +20,3 @@
   * Completed hands-on cybersecurity exercises and labs
 * [Caltech Cyber Bootcamp](https://bootcamp.ctme.caltech.edu/programs/cybersecurity)
   * Completed a practical program focused on developing cybersecurity skills and experience 
-
-## IT Labs/Projects
-* [Active Directory Lab](https://github.com/WilliamDGreenlaw/active-directory-lab)
-  * Implemented on-premises Active Directory within Azure virtual machines (on-premises Active Directory deployed in the cloud)
-* [Azure Compute and Networking Lab](https://github.com/WilliamDGreenlaw/azure-compute-and-networking-lab)
-  * Created virtual machines in Azure and analyzed their network traffic with WireShark 
