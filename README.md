@@ -1,4 +1,4 @@
-# Hi, I'm [Will](https://www.linkedin.com/in/williamdgreenlaw/), an IT professional with an interest in cybersecurity. 
+# Hi, I'm [Will](https://www.linkedin.com/in/williamdgreenlaw/), an IT professional.
 
 ## IT Labs/Projects
 * [Active Directory Lab](https://github.com/WilliamDGreenlaw/active-directory-lab)
@@ -9,4 +9,3 @@
 ## Cybersecurity Labs/Projects
 * [Make and Break](https://github.com/WilliamDGreenlaw/Make-and-Break)
   * Created a vulnerable virtual machine and demonstrated how it could be exploited 
-* More in progress (coming soon)...
