@@ -8,4 +8,4 @@
 
 ## Cybersecurity Labs/Projects
 * [Make and Break](https://github.com/WilliamDGreenlaw/Make-and-Break)
-  * Created a vulnerable virtual machine and demonstrated how it could be exploited 
+  * Created a CTF-style virtual machine and web application using VirtualBox, Ubuntu, Apache, MySQL, PHP, and WordPress, then demonstrated how the machine could be exploited using Kali Linux, Nmap, Nikto, DIRB, WPScan, directory traversal, and a reverse shell script 
