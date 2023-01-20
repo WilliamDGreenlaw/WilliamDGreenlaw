@@ -1,4 +1,4 @@
-# Hi, I'm [Will](https://www.linkedin.com/in/williamdgreenlaw/), an IT professional with a passion for cybersecurity.
+# Hi, I'm [Will](https://www.linkedin.com/in/williamdgreenlaw/), an IT professional.
 
 ## Skills Development Labs/Projects
 * [Active Directory Lab](https://github.com/WilliamDGreenlaw/active-directory-lab)
