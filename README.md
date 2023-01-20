@@ -1,6 +1,6 @@
 # Hi, I'm [Will](https://www.linkedin.com/in/williamdgreenlaw/), an IT professional.
 
-## Skills Development Labs/Projects
+## Labs/Projects
 * [Active Directory Lab](https://github.com/WilliamDGreenlaw/active-directory-lab)
   * Implemented on-premises Active Directory within Azure virtual machines (on-premises Active Directory deployed in the cloud)
 * [Azure Compute and Networking Lab](https://github.com/WilliamDGreenlaw/azure-compute-and-networking-lab)
